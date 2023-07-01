@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi!
+
+Completely new to coding, and starting a coding bootcamp in August 2023! Looking forward to learning and hopefully contributing to things!
 
 <!--
 **JordanEckford/JordanEckford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
