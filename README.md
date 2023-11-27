@@ -18,6 +18,7 @@ I have recently completed a Software Development bootcamp with Northcoders and I
 - [![Netlify][Netlifyimg]][Netlify-url]
 - [![Firebase][Firebaseimg]][Firebase-url]
 - [![Express][expressimg]][express-url]
+- [![Tailwind][tailwind]][tailwind-url]
 
 ## Projects
 
@@ -59,6 +60,8 @@ I have recently completed a Software Development bootcamp with Northcoders and I
 [node-url]: https://nodejs.org/en/
 [htmlimg]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [cssimg]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+[tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[tailwind-url]: https://tailwindcss.com/
 
 <!--
 **JordanEckford/JordanEckford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
