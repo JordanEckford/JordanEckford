@@ -1,6 +1,11 @@
 # Hi! I'm Jordan Eckford
 
-I have recently completed a Software Development bootcamp with Northcoders and I am looking to land my first role
+I have recently completed a Software Development bootcamp with Northcoders and I am looking to land my first role.
+
+Take a look at my porfolio website:
+<br/>
+
+## <a href="https://jordaneckford.co.uk/"> jordaneckford.co.uk </a>
 
 ## Skills
 
