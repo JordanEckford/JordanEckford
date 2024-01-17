@@ -7,6 +7,41 @@ Take a look at my porfolio website:
 
 ## <a href="https://jordaneckford.co.uk/"> jordaneckford.co.uk </a>
 
+## Projects
+
+### Scoreboard App
+
+- This scoreboard app is specifically designed for mobiles to provide easy and engaging ways for user to record scores of popular sports bar games- Snooker, Pool, & Darts
+- Users can easily record scores as they are playing and scores will be automatically calculated. Once games are over, scores are recorded and saved, and data is reset automatically ready for the next game.
+- Rules for each game are taken into account where relevant, so no incorrect score can be inputted. Users will also be notified if mistakes have been made so they can be corrected.
+- The app enhances user interactivity and engagement through dynamic DOM manipulation with JavaScript.
+- GitHub Repo : https://github.com/JordanEckford/sports-scoreboards
+- Live App : https://jordaneckfordscoreboardapp.netlify.app/index.html
+
+### Pixel Plunge
+
+<!-- <img src="./public/pixelplungelogo.png" height=100> -->
+
+- Pixel Plunge was my final group project on the Northcoders bootcamp. As a group of 5, we had 8 days to build this from scratch. It is a deep sea fishing game, where the aim is to catch as many fish as possible before the oxygen runs out.
+- Made with Phaser 3 as the game engine, React, and Firebase
+- GitHub Repo : https://github.com/sting-arrays/pixel-plunge
+- Live App : https://pixel-plunge.netlify.app/
+
+### NC News
+
+- A full stack mock news application made by myself over 2 weeks during my Northcoders bootcamp.
+- Backend made with PostgreSQL & Express. HTML, CSS, and React for the front end
+- GitHub Repo's:
+  - Front end: https://github.com/JordanEckford/nc-news-app
+  - Back end: https://github.com/JordanEckford/nc-news
+- Live app: https://jordanncnews.netlify.app/home
+
+### Weather App
+
+- This is a basic weather app that fetches live data from the Open Weather API. It can give you the current weather at a location of choice.
+- GitHub Repo : https://github.com/JordanEckford/weather-app
+- Live App : https://jordaneckfordweatherapp.netlify.app/
+
 ## Skills
 
   <br>
@@ -25,28 +60,6 @@ Take a look at my porfolio website:
 - [![Express][expressimg]][express-url]
 - [![Tailwind][tailwind]][tailwind-url]
 - [![Jest][jest]][jest-url]
-
-## Projects
-
-### Pixel Plunge
-
-<a href='https://phaser.io'><img src="./public/pixelplungelogo.png" height=100></a>
-
-- Pixel Plunge was my final group project on the Northcoders bootcamp. As a group of 5, we had 8 days to build this from scratch. It is a deep sea fishing game, where the aim is to catch as many fish as possible before the oxygen runs out.
-- Made with Phaser 3 as the game engine, React, and Firebase
-- GitHub Repo : https://github.com/sting-arrays/pixel-plunge
-- Live App : https://pixel-plunge.netlify.app/
-
-<br>
-
-### NC News
-
-- A full stack mock news application made by myself over 2 weeks during my Northcoders bootcamp.
-- Backend made with PostgreSQL & Express. HTML, CSS, and React for the front end
-- GitHub Repo's:
-  - Front end: https://github.com/JordanEckford/nc-news-app
-  - Back end: https://github.com/JordanEckford/nc-news
-- Live app: https://jordanncnews.netlify.app/home
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
